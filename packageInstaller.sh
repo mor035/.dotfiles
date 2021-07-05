@@ -10,4 +10,4 @@ yes | LC_ALL=en_US.UTF-8 pacman -S \
 	biber unison unzip viewnior vim vlc wine xournalpp inkscape yay zathura zathura-djvu zathura-pdf-mupdf zathura-ps zip zsh 
 yay -S --noconfirm \
 	lightdm-mini-greeter openrefine rstudio-desktop-bin spicetify-cli spotify teamviewer timeset timeset-gui marvin\
-	trezor-suite-appimage trezor-udev zoom zotero cava cointop anaconda capitaine-icon-theme ganttproject balena-etcher
+	trezor-suite-appimage trezor-udev zoom zotero cava cointop anaconda la-capitaine-icon-theme ganttproject balena-etcher
