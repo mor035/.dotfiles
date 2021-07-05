@@ -1,2 +1,2 @@
 # .dotfiles & scripts
-My personal collection of dotfiles and scipts to quickly setup new systems.
+My personal collection of dotfiles, scipts and other files to quickly setup new systems.
