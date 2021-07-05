@@ -7,7 +7,7 @@ yes | LC_ALL=en_US.UTF-8 pacman -S \
 	arandr blender capitaine-cursors chromium cmatrix discord ffmpeg firefox gimp gnome-keyring gparted gpick jupyter \
 	jupyterlab libreoffice-still lightdm-settings neofetch okular pavucontrol pcmanfm pulseaudio qbittorrent r ranger git \
 	rsync speedcrunch speedtest-cli sqlitebrowser steam-manjaro stow sublime-text texlive-most texlive-lang texlive-bibtexextra \
-	biber unison unzip viewnior vim vlc wine xournalpp yay zathura zathura-djvu zathura-pdf-mupdf zathura-ps zip zsh 
+	biber unison unzip viewnior vim vlc wine xournalpp inkscape yay zathura zathura-djvu zathura-pdf-mupdf zathura-ps zip zsh 
 yay -S --noconfirm \
-	lightdm-mini-greeter openrefine rstudio-desktop-bin spicetify-cli spotify teamviewer timeset timeset-gui \
+	lightdm-mini-greeter openrefine rstudio-desktop-bin spicetify-cli spotify teamviewer timeset timeset-gui marvin\
 	trezor-suite-appimage trezor-udev zoom zotero cava cointop anaconda capitaine-icon-theme ganttproject balena-etcher
