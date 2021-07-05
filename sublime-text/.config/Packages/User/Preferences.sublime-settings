@@ -1,0 +1,35 @@
+{
+	"added_words":
+	[
+		"kann"
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"dictionary": "Packages/German_de_DE.dic",
+	"font_face": "Cascadia Code",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"line_numbers": true,
+	"line_padding_top": 3,
+	"margin": 0,
+	"material_theme_accent_acid-lime": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme",
+}

@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Djaneiro",
+		"Emmet",
+		"FTPSync",
+		"GitGutter",
+		"LaTeXTools",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"R-Box",
+		"R-snippets",
+		"R_comments",
+		"requirementstxt",
+		"SendText",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL"
+	],
+}
