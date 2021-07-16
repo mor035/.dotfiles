@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><checkers>
+  <AliasChecker fixMode="ask"/>
+  <BondLengthChecker fixMode="ask"/>
+  <CircularRGroupReferenceChecker fixMode="ask"/>
+  <ChiralFlagErrorChecker fixMode="ask"/>
+  <CoordinationSystemErrorChecker fixMode="ask"/>
+  <CovalentCounterionChecker fixMode="ask"/>
+  <IncorrectTetrahedralStereoChecker fixMode="ask"/>
+  <MetalloceneErrorChecker fixMode="ask"/>
+  <MissingRGroupChecker fixMode="ask"/>
+  <NonStandardWedgeSchemeChecker fixMode="ask"/>
+  <NonStereoWedgeBondChecker fixMode="ask"/>
+  <OverlappingAtomsChecker fixMode="ask"/>
+  <RadicalChecker fixMode="ask"/>
+  <RgroupAttachmentErrorChecker fixMode="ask"/>
+  <RgroupBridgeRatomChecker fixMode="ask"/>
+  <RingStrainErrorChecker cumulatedDoubleBond="true" fixMode="ask" transDoubleBond="true" tripleBond="true"/>
+  <UnusedRGroupChecker fixMode="ask"/>
+  <ValenceErrorChecker allowTraditionalNitrogen="false" fixMode="ask"/>
+</checkers>

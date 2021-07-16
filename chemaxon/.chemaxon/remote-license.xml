@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><!--PLEASE DO NOT MODIFY THIS FILE AND BE AWARE THAT THE FILE CONTAINS CONFIDENTIAL INFORMATION.--><ChemAxon>
+<License>
+<Field Name="Software" Value="Structure Checker"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-14"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFEvc+pDspNJr+qpKbYXNUI3OkbQUAhQFKrf72zu2n5xj6G6m3dwzHzgBeQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="NMR Predictor"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-14"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFF7xN1cJ02wxGrcQUIwWsPKHTd0aAhQjYxnLqc7d4FpJOIPW17z4aXDCnQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Markush Enumeration Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-15"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFD3rXeaKRN4wpwplobanW3IGYmYgAhR+sYNcr0JdTnpae2ktU2S/EeWq6A=="/>
+</License>
+<License>
+<Field Name="Software" Value="Marvin Beans"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFHWdeq0Un/cE2RL0QNOAzF5xt9sBAhRbr0ypUeZTeejPavSEV0dGDJbojA=="/>
+</License>
+<License>
+<Field Name="Software" Value="Protonation Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFExTI5TFp/CDReFPCzKPSQLD9VtCAhQ+smn9eKrWXhwmADXPPUXjy1axkQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Partitioning Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFBZmSwWu43COOGpaIZhJHQBbzgmuAhQqa/lq3WKpEe2flBPY0MropyMhcg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Isomers Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFC1sEesE3W8IF+qWvuRPoR7CAofBAhQNavF/5o1DMkqopU0BqC7FadH43Q=="/>
+</License>
+<License>
+<Field Name="Software" Value="Name to Structure"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFCpsvsPfUQD6KKK1exVSzB0tjCOLAhQCPh2uwXLeZ+xGRkA7ZdP7Gp62YQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structure to Name"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFHmkfdMqpZDjhYO3AXlte2WkBJcmAhQ81mQc8uL0IT8hcBE/66mN74jkXw=="/>
+</License>
+<License>
+<Field Name="Software" Value="Solubility Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFEVkS8nabcw8jTTkOtV6Uuw6jTabAhRn/pGmlhEHkuBndqBa0h4G2xJ37Q=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structural Calculations"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="ChemAxon"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2021-08-16"/>
+<Field Name="Support Expiration Date" Value="2023-07-05"/>
+<Field Name="Comment" Value="[Academia] Research"/>
+<Field Name="Hardware" Value="favz-pc@4b980a5d45df56e110a18389eb16cb7e81f53e539279280479568dc9e733211ce9f07c0b76acf8639d34759c32faf0ae279d8c4a789fa7ec878b80d7fa500b78"/>
+<Signature Value="MCwCFErhwwQyAMaI2RD1saOR/oTurWv2AhRm45Ft1dZnEy2glxXjbX+3vvgRrg=="/>
+</License>
+</ChemAxon>

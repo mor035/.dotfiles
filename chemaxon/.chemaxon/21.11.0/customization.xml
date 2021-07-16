@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><customization active="default">
+  <scheme id="sketch6default" largeIcons="true">
+    <modify path="toolbar/chemical" visible="true" anchor="west" index="3"/>
+    <modify path="toolbar/mytemplates" anchor="west" index="2"/>
+    <modify path="toolbar/markush" index="2"/>
+    <modify path="toolbar/tools" index="1"/>
+  </scheme>
+  <scheme id="default">
+    <modify path="toolbar/general" row="0"/>
+    <modify path="toolbar/chemical" row="0"/>
+    <modify path="toolbar/templates" row="0"/>
+    <modify path="toolbar/edit3D" row="0"/>
+    <modify path="toolbar/mytemplates" row="0"/>
+    <modify path="toolbar/online" row="1"/>
+    <modify path="toolbar/markush" row="0"/>
+    <modify path="toolbar/tools" row="0"/>
+    <modify path="toolbar/atoms" row="0"/>
+    <toolbar id="MTextEditorToolBar" visible="false" name="Text editor" anchor="south" row="0" index="0"/>
+    <toolbar id="LabelEditorToolBar" visible="false" name="Label editor" anchor="south" row="0" index="0"/>
+  </scheme>
+  <scheme id="viewmode" largeIcons="true">
+    <modify path="toolbar/general" row="1"/>
+    <modify path="toolbar/view" row="1"/>
+    <modify path="toolbar/chemical" row="0"/>
+    <modify path="toolbar/templates" row="0"/>
+    <modify path="toolbar/edit3D" row="0"/>
+    <modify path="toolbar/mytemplates" row="1"/>
+    <modify path="toolbar/online" row="1"/>
+    <modify path="toolbar/markush" row="0"/>
+    <modify path="toolbar/tools" row="1"/>
+    <toolbar id="MTextEditorToolBar" visible="false" name="Text editor" anchor="south" row="0" index="0"/>
+    <toolbar id="LabelEditorToolBar" visible="false" name="Label editor" anchor="south" row="0" index="0"/>
+  </scheme>
+</customization>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><shortcuts active="default">
+  <scheme id="default" name="Default"/>
+  <scheme id="mac" parent="default" name="Mac OS X"/>
+  <scheme id="conf1" name="Configuration 1"/>
+  <scheme id="conf2" name="Configuration 2"/>
+  <keyboard-shortcut key="control I" commandID="addAnalysisBox" scheme="default"/>
+  <keyboard-shortcut key="control DELETE" commandID="new" scheme="default"/>
+  <keyboard-shortcut key="control O" commandID="open" scheme="default"/>
+  <keyboard-shortcut key="control S" commandID="save" scheme="default"/>
+  <keyboard-shortcut key="control shift S" commandID="saveAs" scheme="default"/>
+  <keyboard-shortcut key="control P" commandID="print" scheme="default"/>
+  <keyboard-shortcut key="control W" commandID="close" scheme="default"/>
+  <keyboard-shortcut key="control Z" commandID="undo" scheme="default"/>
+  <keyboard-shortcut key="alt BACK_SPACE" commandID="undo" scheme="default"/>
+  <keyboard-shortcut key="control Y" commandID="redo" scheme="default"/>
+  <keyboard-shortcut key="control C" commandID="copy" scheme="default"/>
+  <keyboard-shortcut key="control K" commandID="copyAs" scheme="default"/>
+  <keyboard-shortcut key="control L" commandID="copyAsSmiles" scheme="default"/>
+  <keyboard-shortcut key="control M" commandID="copyAsMRV" scheme="default"/>
+  <keyboard-shortcut key="control F" commandID="copyAsPDF" scheme="default"/>
+  <keyboard-shortcut key="control D" commandID="copyAsOLE" scheme="default"/>
+  <keyboard-shortcut key="control INSERT" commandID="copy" scheme="default"/>
+  <keyboard-shortcut key="control X" commandID="cut" scheme="default"/>
+  <keyboard-shortcut key="control shift DELETE" commandID="cut" scheme="default"/>
+  <keyboard-shortcut key="control V" commandID="paste" scheme="default"/>
+  <keyboard-shortcut key="control shift INSERT" commandID="paste" scheme="default"/>
+  <keyboard-shortcut key="control A" commandID="selectAll" scheme="default"/>
+  <keyboard-shortcut key="control shift I" commandID="inverseSelection" scheme="default"/>
+  <keyboard-shortcut key="F11" commandID="menubar" scheme="default"/>
+  <keyboard-shortcut key="shift F9" commandID="grid" scheme="default"/>
+  <keyboard-shortcut key="control shift F9" commandID="guidelines" scheme="default"/>
+  <keyboard-shortcut key="SPACE" commandID="switchSelectionTransformation" scheme="default"/>
+  <keyboard-shortcut key="control shift N" commandID="sourcename" scheme="default"/>
+  <keyboard-shortcut key="F5" commandID="normalMode" scheme="default"/>
+  <keyboard-shortcut key="F6" commandID="zoomMode" scheme="default"/>
+  <keyboard-shortcut key="F7" commandID="rotate3DFree" scheme="default"/>
+  <keyboard-shortcut key="control G" commandID="createSGroup" scheme="default"/>
+  <keyboard-shortcut key="control 2" commandID="clean2D" scheme="default"/>
+  <keyboard-shortcut key="control shift 2" commandID="cleanAndArrange2D" scheme="default"/>
+  <keyboard-shortcut key="control 3" commandID="clean3D" scheme="default"/>
+  <keyboard-shortcut key="control E" commandID="periodicSystem" scheme="default"/>
+  <keyboard-shortcut key="control T" commandID="templates" scheme="default"/>
+  <keyboard-shortcut key="control R" commandID="checkStructure" scheme="default"/>
+  <keyboard-shortcut key="control O" commandID="open" scheme="conf1"/>
+  <keyboard-shortcut key="control S" commandID="save" scheme="conf1"/>
+  <keyboard-shortcut key="control P" commandID="print" scheme="conf1"/>
+  <keyboard-shortcut key="control Z" commandID="undo" scheme="conf1"/>
+  <keyboard-shortcut key="control Y" commandID="redo" scheme="conf1"/>
+  <keyboard-shortcut key="control C" commandID="copy" scheme="conf1"/>
+  <keyboard-shortcut key="control INSERT" commandID="copy" scheme="conf1"/>
+  <keyboard-shortcut key="control X" commandID="cut" scheme="conf1"/>
+  <keyboard-shortcut key="control shift DELETE" commandID="cut" scheme="conf1"/>
+  <keyboard-shortcut key="control V" commandID="paste" scheme="conf1"/>
+  <keyboard-shortcut key="control shift INSERT" commandID="paste" scheme="conf1"/>
+  <keyboard-shortcut key="control A" commandID="selectAll" scheme="conf1"/>
+  <keyboard-shortcut key="control G" commandID="createSGroup" scheme="conf1"/>
+  <keyboard-shortcut key="control H" commandID="ungroupSGroup" scheme="conf1"/>
+  <keyboard-shortcut key="control F" commandID="moveToFront" scheme="conf1"/>
+  <keyboard-shortcut key="control J" commandID="moveToBack" scheme="conf1"/>
+  <keyboard-shortcut key="control 6" commandID="clean2D" scheme="conf1"/>
+  <keyboard-shortcut key="control R" commandID="checkStructure" scheme="conf1"/>
+  <keyboard-shortcut key="control O" commandID="open" scheme="conf2"/>
+  <keyboard-shortcut key="control S" commandID="save" scheme="conf2"/>
+  <keyboard-shortcut key="control shift S" commandID="saveAs" scheme="conf2"/>
+  <keyboard-shortcut key="control P" commandID="print" scheme="conf2"/>
+  <keyboard-shortcut key="control W" commandID="close" scheme="conf2"/>
+  <keyboard-shortcut key="control Z" commandID="undo" scheme="conf2"/>
+  <keyboard-shortcut key="control shift Z" commandID="redo" scheme="conf2"/>
+  <keyboard-shortcut key="control C" commandID="copy" scheme="conf2"/>
+  <keyboard-shortcut key="control K" commandID="copyAs" scheme="conf2"/>
+  <keyboard-shortcut key="control L" commandID="copyAsSmiles" scheme="conf2"/>
+  <keyboard-shortcut key="control M" commandID="copyAsMRV" scheme="conf2"/>
+  <keyboard-shortcut key="control INSERT" commandID="copy" scheme="conf2"/>
+  <keyboard-shortcut key="control X" commandID="cut" scheme="conf2"/>
+  <keyboard-shortcut key="control shift DELETE" commandID="cut" scheme="conf2"/>
+  <keyboard-shortcut key="control V" commandID="paste" scheme="conf2"/>
+  <keyboard-shortcut key="control shift INSERT" commandID="paste" scheme="conf2"/>
+  <keyboard-shortcut key="control A" commandID="selectAll" scheme="conf2"/>
+  <keyboard-shortcut key="F11" commandID="menubar" scheme="conf2"/>
+  <keyboard-shortcut key="F7" commandID="zoomIn" scheme="conf2"/>
+  <keyboard-shortcut key="F8" commandID="zoomOut" scheme="conf2"/>
+  <keyboard-shortcut key="control G" commandID="createSGroup" scheme="conf2"/>
+  <keyboard-shortcut key="control shift G" commandID="ungroupSGroup" scheme="conf2"/>
+  <keyboard-shortcut key="F2" commandID="moveToFront" scheme="conf2"/>
+  <keyboard-shortcut key="F3" commandID="moveToBack" scheme="conf2"/>
+  <keyboard-shortcut key="control shift H" commandID="mirrorHorizontally" scheme="conf2"/>
+  <keyboard-shortcut key="control shift V" commandID="mirrorVertically" scheme="conf2"/>
+  <keyboard-shortcut key="control alt shift H" commandID="flipHorizontally" scheme="conf2"/>
+  <keyboard-shortcut key="control alt shift V" commandID="flipVertically" scheme="conf2"/>
+  <keyboard-shortcut key="control shift K" commandID="clean2D" scheme="conf2"/>
+</shortcuts>
