@@ -1,0 +1,1023 @@
+{
+	"folder_history":
+	[
+		"/home/mor035/Dokumente",
+		"/home/mor035/Dokumente/mainText",
+		"/home/mor035/Dokumente/courses",
+		"/etc/sudoers.d",
+		"/home/mor035/Code/pythoncrash/practice/chapter3",
+		"/home/mor035/Code/pythoncrash/practice/chapter1",
+		"/home/mor035/Dokumente/else/coding/practice/chapter1",
+		"/home/mor035/Dokumente/else/coding/practice/git_practice",
+		"/home/mor035/Dokumente/else/coding/crash",
+		"/home/mor035/.i3",
+		"/etc/lightdm"
+	],
+	"last_version": 4107,
+	"last_window_id": 35,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 373.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"oxes",
+						"oxesPerStack"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"tabl",
+						"tableCards"
+					],
+					[
+						"clean",
+						"cleanedList"
+					],
+					[
+						"transmute",
+						"transmute\t{dplyr}"
+					],
+					[
+						"sd",
+						"sdWeight"
+					],
+					[
+						"upper",
+						"upper\tfunction"
+					],
+					[
+						"nach",
+						"nachricht2\tstatement"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"LatexTools: clear",
+						"LaTeXTools: Clear cache"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"LaTeXTools: Clear",
+						"LaTeXTools: Clear cache"
+					],
+					[
+						"clear",
+						"LaTeXTools: Clear current bibliography cache"
+					],
+					[
+						"view m",
+						"View: Toggle Menu"
+					],
+					[
+						"vie",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"view menu",
+						"View: Toggle Menu"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"syntax",
+						"Set Syntax: C"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"package controll inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"viewmen",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mor035/.dotfiles/packageInstaller.sh",
+				"/home/mor035/.dotfiles/zathura/.config/zathura/zathurarc",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.bib",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.bib",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.cls",
+				"/home/mor035/.config/zathura/zathurarc",
+				"/home/mor035/Dokumente/mainText/chapters/expPart/mh001.tex",
+				"/home/mor035/Dokumente/mainText/main.tex",
+				"/home/mor035/Dokumente/mainText/thesis.cls",
+				"/home/mor035/Dokumente/mainText/chapters/expPart/mh002.tex",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.cube",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.csv",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.eps",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH064/20190723-14-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Downloads/nmrfxa-unix-amd64_11_1_32.sh",
+				"/home/mor035/Downloads/topspin-4.1.3-linux.sh",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH058/20190709-8-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH005/20190215-6-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH033/20190311-28-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH033/20190311-28-hama_Ma/11/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH047/20190524-15-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/mainText/chapters/intro.tex",
+				"/home/mor035/Schreibtisch/mainText/test.tex",
+				"/home/mor035/Schreibtisch/mainText/chapters/expPart/mh001.tex",
+				"/usr/share/texmf/bibtex/bib/lib.bib",
+				"/home/mor035/Dokumente/mainText/test.bib",
+				"/home/mor035/Dokumente/else/other/test/mainText/test.tex",
+				"/home/mor035/Dokumente/else/other/test/mainText/chapters/researchTask.tex",
+				"/home/mor035/Dokumente/else/other/test/mainText/chapters/expPart/mh001.tex",
+				"/home/mor035/Dokumente/mainText/chapters/expPart.tex",
+				"/home/mor035/Downloads/thesis_1/main.tex",
+				"/home/mor035/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.cls",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/LaTeX-Handout-Vorlage-master/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment.txt",
+				"/home/mor035/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/mor035/.i3/config",
+				"/home/mor035/Dokumente/else/personal/application/angebote.txt",
+				"/home/mor035/.ssh/known_hosts",
+				"/home/mor035/.ssh/id_rsa",
+				"/home/mor035/.dotfiles/i3/.i3/config",
+				"/home/mor035/.dotfiles/README.md",
+				"/home/mor035/Downloads/avogadro-1.2.0/INSTALL",
+				"/usr/share/texmf-dist/web2c/texmf.cnf",
+				"/etc/texmf/web2c/texmf.cnf",
+				"/usr/share/texmf/ls-R",
+				"/home/mor035/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/mor035/Dokumente/courses/basicsR/ex11-card-strings.R",
+				"/home/mor035/Dokumente/procedures/latex/latex_files/mh001/mh001.tex",
+				"/home/mor035/Dokumente/else/other/oldText/Dissertation.tex",
+				"/home/mor035/Dokumente/courses/basicsR/ex10-last-card.R",
+				"/home/mor035/Dokumente/courses/basicsR/ex10-oxes-per-stack.R",
+				"/home/mor035/Dokumente/courses/basicsR/paste.R",
+				"/home/mor035/Dokumente/courses/dataLiteracy/spackoDerSeineFragenLoescht.txt",
+				"/home/mor035/pkglist.txt",
+				"/home/mor035/.bashrc",
+				"/home/mor035/.dotfiles/packageInstaller_backup.sh",
+				"/home/mor035/.dotfiles/packageInstaller",
+				"/home/mor035/Dokumente/courses/basicsCS/points.txt",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/KündigungInternet/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/mainText/main.log",
+				"/home/mor035/Dokumente/mainText/main.sty",
+				"/home/mor035/Dokumente/mainText/main-blx.bib",
+				"/home/mor035/Dokumente/mainText/lib.bib",
+				"/home/mor035/Dokumente/mainText/chapters/ChapterTemplate.tex",
+				"/home/mor035/Dokumente/else/personal/else/ottoGPU/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/mainText/Appendices/AppendixA.tex",
+				"/tmp/xa-J1JK50/debian-binary",
+				"/home/mor035/Dokumente/else/personal/coding/cProgramming/hello.c",
+				"/home/mor035/Dokumente/else/.dotfiles/README.md",
+				"/home/mor035/Downloads/Anaconda3-2021.05-Linux-x86_64.sh",
+				"/home/mor035/Dokumente/else/personal/else/autoKredit/erhoehungKredit/Latex-Briefvorlage.tex",
+				"/home/mor035/.Xresources",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH249/20210629-11-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/KündigungStrom/Latex-Briefvorlage.tex",
+				"/home/mor035/.profile",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210624-2-hama_Ma/10/pdata/1/title",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210618-7-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/courses/basicsR/ex9-kilogram-of-rice.R",
+				"/home/mor035/Dokumente/mainText/Chapters/Chapter1.tex",
+				"/home/mor035/Dokumente/mainText/Chapters/ChapterTemplate.tex",
+				"/home/mor035/Downloads/thesis_1/thesis.cls",
+				"/home/mor035/Downloads/thesis_1/MastersDoctoralThesis.cls",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-din-5008-master/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-master/brief-absender.lco",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-master/brief.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/LaTeX-Handout-Vorlage-master/handout.cls",
+				"/home/mor035/Dokumente/courses/dataLiteracy/2B.txt",
+				"/home/mor035/Dokumente/courses/dataLiteracy/2A.txt",
+				"/home/mor035/Downloads/README.txt",
+				"/home/mor035/Downloads/s41598-017-16887-0.pdf.pgp",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210615-9-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/courses/basicsR/testex9-1.R",
+				"/home/mor035/Dokumente/courses/basicsR/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl2.R",
+				"/home/mor035/Downloads/ex9-kilogram-of-rice.R",
+				"/home/mor035/Downloads/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl3.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl1.R",
+				"/home/mor035/Dokumente/courses/basicsR/function.txt",
+				"/tmp/mozilla_mor0350/ex9-kilogram-of-rice.R",
+				"/home/mor035/Downloads/ex8-workflow.R",
+				"/home/mor035/Dokumente/courses/dataLiteracy/Halang_Marc.txt",
+				"/home/mor035/Dokumente/courses/dataLiteracy/Halang_Marc.json",
+				"/tmp/mozilla_mor0350/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH238/20210608-34-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/seminarReports/seminar_Jun2021/untitled.tex",
+				"/home/mor035/Downloads/config.yml",
+				"/home/mor035/Dokumente/courses/dataLiteracy/telefonbuch_Halang_Marc.txt",
+				"/home/mor035/Dokumente/else/personal/angebote.txt",
+				"/home/mor035/Dokumente/courses/basicsR/ex4-chickenstats.R",
+				"/home/mor035/Dokumente/courses/basicsR/extendAndReviseTheDataCollectionOnDataFrames.txt",
+				"/home/mor035/Dokumente/courses/basicsR/dplyr.R",
+				"/home/mor035/Dokumente/courses/basicsR/dataFrameFor6nimmt!TableCards.txt",
+				"/home/mor035/Dokumente/Dissertation.tex",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH222/05052021-AK-Maier/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH222/05052021-AK-Maier/20/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH215/MH215F1/20210416-40-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH215/MH215F2/20210506-19-hama_Ma/10/pdata/1/title",
+				"/run/media/mor035/nmr/amx600/data/AK-Maier/nmr/05052021-AK-Maier/10/pdata/1/title",
+				"/home/mor035/Schreibtisch/test.tex",
+				"/home/mor035/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/mor035/.local/share/SpeedCrunch/color-schemes/lemon.json",
+				"/home/mor035/.Xressources",
+				"/home/mor035/.config/SpeedCrunch/SpeedCrunch.ini",
+				"/home/mor035/.local/share/SpeedCrunch/history.json"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stret",
+					"examinar",
+					"33",
+					"font",
+					"quote",
+					"pruefer",
+					"cite",
+					"}\n",
+					"bibliography",
+					"ldot",
+					"ldots",
+					"authorshipname",
+					"title",
+					"titlepage",
+					"degreename",
+					"degree",
+					"Author",
+					"author",
+					"hyper"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.languagetool":
+			{
+				"height": 313.0
+			},
+			"output.latextools":
+			{
+				"height": 154.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 173.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1366.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"oxes",
+						"oxesPerStack"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"tabl",
+						"tableCards"
+					],
+					[
+						"clean",
+						"cleanedList"
+					],
+					[
+						"transmute",
+						"transmute\t{dplyr}"
+					],
+					[
+						"sd",
+						"sdWeight"
+					],
+					[
+						"upper",
+						"upper\tfunction"
+					],
+					[
+						"nach",
+						"nachricht2\tstatement"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"LatexTools: clear",
+						"LaTeXTools: Clear cache"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"LaTeXTools: Clear",
+						"LaTeXTools: Clear cache"
+					],
+					[
+						"clear",
+						"LaTeXTools: Clear current bibliography cache"
+					],
+					[
+						"view m",
+						"View: Toggle Menu"
+					],
+					[
+						"vie",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"view",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"view menu",
+						"View: Toggle Menu"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"syntax",
+						"Set Syntax: C"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					],
+					[
+						"package controll inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"viewmen",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/mor035/Dokumente",
+				"/home/mor035/Dokumente/courses",
+				"/home/mor035/Dokumente/courses/digitalEthics",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment"
+			],
+			"file_history":
+			[
+				"/home/mor035/.dotfiles/packageInstaller.sh",
+				"/home/mor035/.dotfiles/zathura/.config/zathura/zathurarc",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.bib",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.bib",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment/handout.cls",
+				"/home/mor035/.config/zathura/zathurarc",
+				"/home/mor035/Dokumente/mainText/chapters/expPart/mh001.tex",
+				"/home/mor035/Dokumente/mainText/main.tex",
+				"/home/mor035/Dokumente/mainText/thesis.cls",
+				"/home/mor035/Dokumente/mainText/chapters/expPart/mh002.tex",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.cube",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.csv",
+				"/home/mor035/Dokumente/sketch/MH001-250/MH001/mh001.eps",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH064/20190723-14-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Downloads/nmrfxa-unix-amd64_11_1_32.sh",
+				"/home/mor035/Downloads/topspin-4.1.3-linux.sh",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH058/20190709-8-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH005/20190215-6-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH033/20190311-28-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH033/20190311-28-hama_Ma/11/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH047/20190524-15-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/mainText/chapters/intro.tex",
+				"/home/mor035/Schreibtisch/mainText/test.tex",
+				"/home/mor035/Schreibtisch/mainText/chapters/expPart/mh001.tex",
+				"/usr/share/texmf/bibtex/bib/lib.bib",
+				"/home/mor035/Dokumente/mainText/test.bib",
+				"/home/mor035/Dokumente/else/other/test/mainText/test.tex",
+				"/home/mor035/Dokumente/else/other/test/mainText/chapters/researchTask.tex",
+				"/home/mor035/Dokumente/else/other/test/mainText/chapters/expPart/mh001.tex",
+				"/home/mor035/Dokumente/mainText/chapters/expPart.tex",
+				"/home/mor035/Downloads/thesis_1/main.tex",
+				"/home/mor035/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.cls",
+				"/home/mor035/Dokumente/courses/digitalEthics/filmAnalysis/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/LaTeX-Handout-Vorlage-master/handout.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/courseAssignment.txt",
+				"/home/mor035/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/mor035/.i3/config",
+				"/home/mor035/Dokumente/else/personal/application/angebote.txt",
+				"/home/mor035/.ssh/known_hosts",
+				"/home/mor035/.ssh/id_rsa",
+				"/home/mor035/.dotfiles/i3/.i3/config",
+				"/home/mor035/.dotfiles/README.md",
+				"/home/mor035/Downloads/avogadro-1.2.0/INSTALL",
+				"/usr/share/texmf-dist/web2c/texmf.cnf",
+				"/etc/texmf/web2c/texmf.cnf",
+				"/usr/share/texmf/ls-R",
+				"/home/mor035/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/mor035/Dokumente/courses/basicsR/ex11-card-strings.R",
+				"/home/mor035/Dokumente/procedures/latex/latex_files/mh001/mh001.tex",
+				"/home/mor035/Dokumente/else/other/oldText/Dissertation.tex",
+				"/home/mor035/Dokumente/courses/basicsR/ex10-last-card.R",
+				"/home/mor035/Dokumente/courses/basicsR/ex10-oxes-per-stack.R",
+				"/home/mor035/Dokumente/courses/basicsR/paste.R",
+				"/home/mor035/Dokumente/courses/dataLiteracy/spackoDerSeineFragenLoescht.txt",
+				"/home/mor035/pkglist.txt",
+				"/home/mor035/.bashrc",
+				"/home/mor035/.dotfiles/packageInstaller_backup.sh",
+				"/home/mor035/.dotfiles/packageInstaller",
+				"/home/mor035/Dokumente/courses/basicsCS/points.txt",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/KündigungInternet/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/mainText/main.log",
+				"/home/mor035/Dokumente/mainText/main.sty",
+				"/home/mor035/Dokumente/mainText/main-blx.bib",
+				"/home/mor035/Dokumente/mainText/lib.bib",
+				"/home/mor035/Dokumente/mainText/chapters/ChapterTemplate.tex",
+				"/home/mor035/Dokumente/else/personal/else/ottoGPU/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/mainText/Appendices/AppendixA.tex",
+				"/tmp/xa-J1JK50/debian-binary",
+				"/home/mor035/Dokumente/else/personal/coding/cProgramming/hello.c",
+				"/home/mor035/Dokumente/else/.dotfiles/README.md",
+				"/home/mor035/Downloads/Anaconda3-2021.05-Linux-x86_64.sh",
+				"/home/mor035/Dokumente/else/personal/else/autoKredit/erhoehungKredit/Latex-Briefvorlage.tex",
+				"/home/mor035/.Xresources",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH249/20210629-11-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/KündigungStrom/Latex-Briefvorlage.tex",
+				"/home/mor035/.profile",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210624-2-hama_Ma/10/pdata/1/title",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210618-7-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/courses/basicsR/ex9-kilogram-of-rice.R",
+				"/home/mor035/Dokumente/mainText/Chapters/Chapter1.tex",
+				"/home/mor035/Dokumente/mainText/Chapters/ChapterTemplate.tex",
+				"/home/mor035/Downloads/thesis_1/thesis.cls",
+				"/home/mor035/Downloads/thesis_1/MastersDoctoralThesis.cls",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-din-5008-master/Latex-Briefvorlage.tex",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-master/brief-absender.lco",
+				"/home/mor035/Dokumente/else/personal/else/rottenburgWohnung2020-2021/latex-briefvorlage-master/brief.tex",
+				"/home/mor035/Dokumente/courses/digitalEthics/LaTeX-Handout-Vorlage-master/handout.cls",
+				"/home/mor035/Dokumente/courses/dataLiteracy/2B.txt",
+				"/home/mor035/Dokumente/courses/dataLiteracy/2A.txt",
+				"/home/mor035/Downloads/README.txt",
+				"/home/mor035/Downloads/s41598-017-16887-0.pdf.pgp",
+				"/run/media/mor035/nmr/avance400/data/hama_Ma/nmr/20210615-9-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/courses/basicsR/testex9-1.R",
+				"/home/mor035/Dokumente/courses/basicsR/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl2.R",
+				"/home/mor035/Downloads/ex9-kilogram-of-rice.R",
+				"/home/mor035/Downloads/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl3.R",
+				"/home/mor035/Dokumente/courses/basicsR/function_expl1.R",
+				"/home/mor035/Dokumente/courses/basicsR/function.txt",
+				"/tmp/mozilla_mor0350/ex9-kilogram-of-rice.R",
+				"/home/mor035/Downloads/ex8-workflow.R",
+				"/home/mor035/Dokumente/courses/dataLiteracy/Halang_Marc.txt",
+				"/home/mor035/Dokumente/courses/dataLiteracy/Halang_Marc.json",
+				"/tmp/mozilla_mor0350/ex9-chess-depts.R",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH238/20210608-34-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/seminarReports/seminar_Jun2021/untitled.tex",
+				"/home/mor035/Downloads/config.yml",
+				"/home/mor035/Dokumente/courses/dataLiteracy/telefonbuch_Halang_Marc.txt",
+				"/home/mor035/Dokumente/else/personal/angebote.txt",
+				"/home/mor035/Dokumente/courses/basicsR/ex4-chickenstats.R",
+				"/home/mor035/Dokumente/courses/basicsR/extendAndReviseTheDataCollectionOnDataFrames.txt",
+				"/home/mor035/Dokumente/courses/basicsR/dplyr.R",
+				"/home/mor035/Dokumente/courses/basicsR/dataFrameFor6nimmt!TableCards.txt",
+				"/home/mor035/Dokumente/Dissertation.tex",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH222/05052021-AK-Maier/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH222/05052021-AK-Maier/20/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH215/MH215F1/20210416-40-hama_Ma/10/pdata/1/title",
+				"/home/mor035/Dokumente/nmrData/MH001-MH250/MH215/MH215F2/20210506-19-hama_Ma/10/pdata/1/title",
+				"/run/media/mor035/nmr/amx600/data/AK-Maier/nmr/05052021-AK-Maier/10/pdata/1/title",
+				"/home/mor035/Schreibtisch/test.tex",
+				"/home/mor035/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/mor035/.local/share/SpeedCrunch/color-schemes/lemon.json",
+				"/home/mor035/.Xressources",
+				"/home/mor035/.config/SpeedCrunch/SpeedCrunch.ini",
+				"/home/mor035/.local/share/SpeedCrunch/history.json"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stret",
+					"examinar",
+					"33",
+					"font",
+					"quote",
+					"pruefer",
+					"cite",
+					"}\n",
+					"bibliography",
+					"ldot",
+					"ldots",
+					"authorshipname",
+					"title",
+					"titlepage",
+					"degreename",
+					"degree",
+					"Author",
+					"author",
+					"hyper"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/mor035/Dokumente"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.languagetool":
+			{
+				"height": 313.0
+			},
+			"output.latextools":
+			{
+				"height": 154.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"position": "0,0,0,0,0,0,395,1366,768,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 173.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 33,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
